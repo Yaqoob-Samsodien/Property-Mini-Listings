@@ -211,7 +211,7 @@ body {
   max-width: 100%;
 }
 
-.search-sort button {
+.search-sort button { 
   padding: 8px 18px;
   border-radius: 20px;
   border: none;
